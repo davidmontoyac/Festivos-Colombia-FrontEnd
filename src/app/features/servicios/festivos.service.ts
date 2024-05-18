@@ -4,6 +4,13 @@ import { Festivo } from '../../core/entidades/Festivo';
 import { HttpClient } from '@angular/common/http';
 import { Observable } from 'rxjs';
 
+/**
+ * @author Pedro Arango Sánchez
+ * @author David Andrés Montoya Castaño
+ * Universidad de Antioquia
+ * Técnicas de Programación y Laboratorio [2554307] 
+ * Grupo: 01 | Semestre: 2024-1
+ */
 
 @Injectable({
   providedIn: 'root'

@@ -5,6 +5,14 @@ import { Festivo } from '../../../core/entidades/Festivo';
 import { FormsModule } from '@angular/forms';
 import { FestivosService } from '../../servicios/festivos.service';
 
+/**
+ * @author Pedro Arango Sánchez
+ * @author David Andrés Montoya Castaño
+ * Universidad de Antioquia
+ * Técnicas de Programación y Laboratorio [2554307] 
+ * Grupo: 01 | Semestre: 2024-1
+ */
+
 @Component({
   selector: 'app-obtener-festivos',
   standalone: true,
